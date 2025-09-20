@@ -1,0 +1,157 @@
+{
+  "navbar": {
+    "ourapp": "Our App",
+    "features": "Features",
+    "contactus": "Contact Us"
+  },
+  "Header": {
+    "badge": "Report accidents instantly",
+    "title": "Simplify Accident Reporting with",
+    "titlegreen": "Costa",
+    "description": "Costa is your bridge between you and your insurance company. Forget paperwork—report accidents directly from the app in just a few steps.",
+    "primarybutton": "Report Now",
+    "secondarybutton": "Learn More"
+  },
+  "features": {
+    "badge": "Key Features",
+    "title": "Accident Reporting Made Easy",
+    "description": "With Costa, you can quickly report accidents, scan documents, capture damages, and send reports directly to your insurance company.",
+    "cards": {
+      "feature1": {
+        "title": "QR Code Scanning",
+        "description": "Scan the other driver’s Costa QR code. If unavailable, scan their license, grey card, or insurance papers."
+      },
+      "feature2": {
+        "title": "Damage Capture",
+        "description": "Use our guided scan model to take clear pictures of the damages on your vehicle."
+      },
+      "feature3": {
+        "title": "Accident Description",
+        "description": "Describe how the accident happened using OCR and draw a simple sketch of the scene."
+      },
+      "feature4": {
+        "title": "Instant Submission",
+        "description": "Send your complete accident report directly to your insurance company without paperwork."
+      }
+    }
+  },
+  "footer": {
+    "description": "Costa is an innovative platform that eliminates paperwork by enabling quick, simple, and secure accident reporting. Just scan, describe, and submit—all from your mobile app.",
+    "description2": "With Costa, insurance companies and drivers stay connected in real time, ensuring smoother processes, reduced fraud, and faster claim handling.",
+    "links": {
+      "aboutus": {
+        "title": "About Us",
+        "link1": "Who We Are",
+        "link2": "Our Vision",
+        "link3": "Our Mission",
+        "link4": "Partners",
+        "link5": "Media"
+      },
+      "recherch": {
+        "title": "Looking for something?",
+        "link1": "Insurance Partners",
+        "link2": "Driver Assistance",
+        "link3": "Help Center",
+        "link4": "Blogs",
+        "link5": "Suggestions"
+      }
+    },
+    "subscribtion": {
+      "title": "Subscribe for Updates",
+      "description": "Be the first to know about new features and releases.",
+      "button": "Subscribe"
+    },
+    "successmessage": "You have been successfully registered",
+    "errormessage": "Error during registration",
+    "copyrights": "© Copyright 2024. All rights reserved."
+  },
+  "modal": {
+    "title": "Costa",
+    "titlegreen": "Coming Soon",
+    "subtitle": "Stay Updated",
+    "description": "Subscribe to get our latest news, updates, and to share your suggestions.",
+    "button": "Back to Home"
+  },
+  "ourapps": {
+    "title": "Download the",
+    "titlegreen": "Costa App",
+    "description": "Report accidents in minutes. Scan documents, capture damages, and submit reports directly to your insurance—all from your phone."
+  },
+  "service": {
+    "title": "Smart Accident Reporting",
+    "titlegreen": "for Drivers & Insurance",
+    "description": "Costa helps drivers report accidents faster while keeping insurance companies connected in real time.",
+    "services": {
+      "service1": {
+        "title": "Scan & Report",
+        "description": "Easily scan documents or a Costa QR code to share driver and vehicle details."
+      },
+      "service2": {
+        "title": "Guided Damage Scan",
+        "description": "Take accurate photos of damages with AI-guided instructions for clear evidence."
+      },
+      "service3": {
+        "title": "Insurance Bridge",
+        "description": "Submit accident details instantly to your insurance provider without paperwork."
+      }
+    }
+  },
+  "steps": {
+    "title": "How it Works?",
+    "step": "Step",
+    "step1": "Open the Costa app and start a new accident report.",
+    "step2": "Scan the other driver’s Costa QR code or upload license, grey card, and insurance details.",
+    "step3": "Take guided photos of the vehicle damages.",
+    "step4": "Describe the accident using text or OCR and draw a sketch of the scene.",
+    "step5": "Review and confirm your accident report.",
+    "step6": "Submit it directly to your insurance company for processing."
+  },
+  "community": {
+    "title": "Join Our Community Today!",
+    "description": "Be part of our",
+    "boldtext": "WhatsApp ",
+    "description2": "community for exclusive updates, resources, and pre-release features.",
+    "button": "Explore the Forum"
+  },
+  "contact": {
+    "title": "Contact Us For More Information",
+    "subtitle": "",
+    "follow": "Follow Us",
+    "question": "What do you want to ask?",
+    "labels": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "message": "Message"
+    },
+    "placeholders": {
+      "name": "Enter Your Full Name",
+      "email": "Enter Your Email",
+      "message": "Enter Your Message"
+    },
+    "button": "Submit",
+    "successmessage": "Your message has been successfully sent",
+    "errormessage": "Error while sending the message"
+  },
+  "ourteam": {
+    "title": "Costa Leadership Team",
+    "description": "Costa is built by innovators and problem-solvers who are reshaping the future of accident reporting and insurance.",
+    "leaders": [
+      {
+        "name": "BENALIA Mohamed",
+        "position": "Scrum Master | Software Engineer Lead"
+      },
+      {
+        "name": "MERROUKI Yassine",
+        "position": "Product Owner | Founder | Backend Department Head"
+      },
+      {
+        "name": "HADDOUCH Amine",
+        "position": "Mobile Department Head | Flutter Developer Expert"
+      },
+      {
+        "name": "abderaouf Geouar",
+        "position": "UI/UX & Software Design Department Head | React Developer"
+      }
+    ]
+  }
+}

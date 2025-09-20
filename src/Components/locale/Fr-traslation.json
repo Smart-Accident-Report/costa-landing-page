@@ -1,0 +1,157 @@
+{
+  "navbar": {
+    "ourapp": "Notre Application",
+    "features": "Fonctionnalités",
+    "contactus": "Contactez-nous"
+  },
+  "Header": {
+    "badge": "Déclarez vos accidents instantanément",
+    "title": "Simplifiez la déclaration d’accident avec",
+    "titlegreen": "Costa",
+    "description": "Costa est votre passerelle entre vous et votre compagnie d’assurance. Oubliez les papiers — déclarez vos accidents directement depuis l’application en quelques étapes.",
+    "primarybutton": "Déclarer Maintenant",
+    "secondarybutton": "En savoir plus"
+  },
+  "features": {
+    "badge": "Fonctionnalités clés",
+    "title": "Déclaration d’accident simplifiée",
+    "description": "Avec Costa, vous pouvez rapidement déclarer un accident, scanner des documents, capturer les dommages et envoyer votre rapport directement à votre assureur.",
+    "cards": {
+      "feature1": {
+        "title": "Scan du QR Code",
+        "description": "Scannez le QR code Costa de l’autre conducteur. Sinon, scannez son permis, sa carte grise ou son assurance."
+      },
+      "feature2": {
+        "title": "Capture des dommages",
+        "description": "Utilisez notre modèle de scan guidé pour prendre des photos claires des dommages sur votre véhicule."
+      },
+      "feature3": {
+        "title": "Description de l’accident",
+        "description": "Décrivez comment l’accident s’est produit grâce à l’OCR et réalisez un croquis de la scène."
+      },
+      "feature4": {
+        "title": "Soumission instantanée",
+        "description": "Envoyez votre rapport d’accident complet directement à votre assureur sans paperasse."
+      }
+    }
+  },
+  "footer": {
+    "description": "Costa est une plateforme innovante qui élimine la paperasse en permettant une déclaration d’accident rapide, simple et sécurisée. Il suffit de scanner, décrire et envoyer — tout depuis votre application mobile.",
+    "description2": "Avec Costa, les compagnies d’assurance et les conducteurs restent connectés en temps réel, garantissant des processus plus fluides, moins de fraude et un traitement plus rapide des sinistres.",
+    "links": {
+      "aboutus": {
+        "title": "À propos",
+        "link1": "Qui sommes-nous",
+        "link2": "Notre Vision",
+        "link3": "Notre Mission",
+        "link4": "Partenaires",
+        "link5": "Médias"
+      },
+      "recherch": {
+        "title": "Vous cherchez quelque chose ?",
+        "link1": "Partenaires Assurance",
+        "link2": "Assistance Conducteurs",
+        "link3": "Centre d’aide",
+        "link4": "Blogs",
+        "link5": "Suggestions"
+      }
+    },
+    "subscribtion": {
+      "title": "Abonnez-vous aux mises à jour",
+      "description": "Soyez le premier informé des nouvelles fonctionnalités et versions.",
+      "button": "S’abonner"
+    },
+    "successmessage": "Inscription réussie",
+    "errormessage": "Erreur lors de l’inscription",
+    "copyrights": "© Copyright 2024. Tous droits réservés."
+  },
+  "modal": {
+    "title": "Costa",
+    "titlegreen": "Bientôt disponible",
+    "subtitle": "Restez informé",
+    "description": "Abonnez-vous pour recevoir nos dernières actualités, mises à jour et partager vos suggestions.",
+    "button": "Retour à l’accueil"
+  },
+  "ourapps": {
+    "title": "Téléchargez",
+    "titlegreen": "l’Application Costa",
+    "description": "Déclarez vos accidents en quelques minutes. Scannez les documents, capturez les dommages et envoyez les rapports directement à votre assureur."
+  },
+  "service": {
+    "title": "Déclaration d’accident intelligente",
+    "titlegreen": "pour Conducteurs & Assureurs",
+    "description": "Costa aide les conducteurs à déclarer plus rapidement leurs accidents tout en maintenant les assureurs connectés en temps réel.",
+    "services": {
+      "service1": {
+        "title": "Scanner & Déclarer",
+        "description": "Scannez facilement les documents ou un QR code Costa pour partager les informations du conducteur et du véhicule."
+      },
+      "service2": {
+        "title": "Scan guidé des dommages",
+        "description": "Prenez des photos précises des dommages avec des instructions guidées par IA."
+      },
+      "service3": {
+        "title": "Passerelle Assurance",
+        "description": "Soumettez instantanément les détails de l’accident à votre assureur sans paperasse."
+      }
+    }
+  },
+  "steps": {
+    "title": "Comment ça marche ?",
+    "step": "Étape",
+    "step1": "Ouvrez l’application Costa et démarrez une nouvelle déclaration.",
+    "step2": "Scannez le QR code Costa de l’autre conducteur ou importez permis, carte grise et assurance.",
+    "step3": "Prenez des photos guidées des dommages du véhicule.",
+    "step4": "Décrivez l’accident via texte ou OCR et réalisez un croquis de la scène.",
+    "step5": "Vérifiez et confirmez votre rapport d’accident.",
+    "step6": "Soumettez-le directement à votre assureur pour traitement."
+  },
+  "community": {
+    "title": "Rejoignez notre communauté !",
+    "description": "Rejoignez notre",
+    "boldtext": "groupe WhatsApp ",
+    "description2": "pour des mises à jour exclusives, ressources et fonctionnalités anticipées.",
+    "button": "Explorer le forum"
+  },
+  "contact": {
+    "title": "Contactez-nous pour plus d’informations",
+    "subtitle": "",
+    "follow": "Suivez-nous",
+    "question": "Que souhaitez-vous demander ?",
+    "labels": {
+      "name": "Nom complet",
+      "email": "Adresse email",
+      "message": "Message"
+    },
+    "placeholders": {
+      "name": "Entrez votre nom complet",
+      "email": "Entrez votre adresse email",
+      "message": "Entrez votre message"
+    },
+    "button": "Envoyer",
+    "successmessage": "Votre message a été envoyé avec succès",
+    "errormessage": "Erreur lors de l’envoi du message"
+  },
+  "ourteam": {
+    "title": "Équipe de direction Costa",
+    "description": "Costa est développé par des innovateurs qui transforment l’avenir de la déclaration d’accidents et de l’assurance.",
+    "leaders": [
+      {
+        "name": "BENALIA Mohamed",
+        "position": "Scrum Master | Ingénieur Logiciel Principal"
+      },
+      {
+        "name": "MERROUKI Yassine",
+        "position": "Product Owner | Fondateur | Responsable Backend"
+      },
+      {
+        "name": "HADDOUCH Amine",
+        "position": "Responsable Mobile | Expert Flutter"
+      },
+      {
+        "name": "abderaouf Geouar",
+        "position": "Responsable UI/UX & Design Logiciel | Développeur React"
+      }
+    ]
+  }
+}
