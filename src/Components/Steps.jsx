@@ -1,5 +1,5 @@
 import React from 'react';
-import Image from '../assets/phone left.svg';
+import Image from '../assets/report_steps.png';
 import {steps} from './Constants/index';
 import { useTranslation } from 'react-i18next'
 
